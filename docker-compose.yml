@@ -3,4 +3,4 @@ services :
   web :
      image : "saabbas88/notes-app:latest"
      ports :
-         - "8000:8000"
+         - "8001:8000"
